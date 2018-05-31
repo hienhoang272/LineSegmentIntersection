@@ -1,0 +1,10 @@
+*.dot
+*.png
+*.txt
+*.bat
+*.class
+*.zip
+*.xml
+/ignore
+/nbproject
+/build
